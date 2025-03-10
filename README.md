@@ -17,17 +17,18 @@
 
 <p align="left">
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="nasa" width="100" height="100"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="nasa" width="150" height="150"/>
     </a>
     <br>
     <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
     <br>
     I was recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for my contributions as an independent security researcher in their Vulnerability Disclosure Program (VDP). My responsible disclosure helped NASA secure its systems and protect its valuable data.
     <br>
-    <a href="https://github.com/dedcrowd/dedcrowd/blob/main/VDP%2520Letter%2520of%2520Appreciation%2520-%2520DedCrowd.pdf" target="_blank">
+    <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/VDP%20Letter%20of%20Appreciation%20-%20DedCrowd.pdf" target="_blank">
         <img src="https://img.shields.io/badge/View_Certificate-PDF-blue?style=for-the-badge">
     </a>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/recursivedefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="recursivedefer" height="30" width="40" /></a>
