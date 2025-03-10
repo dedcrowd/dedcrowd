@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M.Akif SAYIN | ~DedCrowd~</h1>
 <h3 align="center">I am a Red team Offensive Hacker in Turkiye.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunthack3r&label=Profile%20views&color=0e75b6&style=flat" alt="hunthack3r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedcrowd&label=Profile%20views&color=0e75b6&style=flat" alt="dedcrowd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunthack3r" alt="hunthack3r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedcrowd" alt="dedcrowd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/recursivedefer" target="blank"><img src="https://img.shields.io/twitter/follow/recursivedefer?logo=twitter&style=for-the-badge" alt="recursivedefer" /></a> </p>
 
@@ -36,8 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dedcrowd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/dedcrowd" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunthack3r&show_icons=true&locale=en&layout=compact" alt="hunthack3r" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedcrowd&show_icons=true&locale=en&layout=compact" alt="dedcrowd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunthack3r&show_icons=true&locale=en" alt="hunthack3r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedcrowd&show_icons=true&locale=en" alt="dedcrowd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunthack3r&" alt="hunthack3r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedcrowd&" alt="dedcrowd" /></p>
