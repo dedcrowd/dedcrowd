@@ -16,10 +16,6 @@
 - 📫 How to reach me **akif@hackermail.com**
 
 <p align="left">
-    <!-- NASA Meatball Logo -->
-    <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa.png" alt="NASA Meatball Logo" width="150" height="150"/>
-    </a>
     <!-- NASA Worm Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logo1.png" alt="NASA Worm Logo" width="150" height="150"/>
