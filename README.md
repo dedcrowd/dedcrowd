@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/recursivedefer" target="blank"><img src="https://img.shields.io/twitter/follow/recursivedefer?logo=twitter&style=for-the-badge" alt="recursivedefer" /></a> </p>
 
 - 🔭 I’m currently working on [Kamyoon](https://kamyoon.com)     <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/white-theme-logo.a6439cb3.svg" alt="NASA Worm Logo" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey.png" alt="NASA Worm Logo" width="100" height="100"/>
     </a>
 
 - 🌱 I’m currently learning **JavaScript | C++ | DeepLearning |**
