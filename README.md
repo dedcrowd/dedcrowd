@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/recursivedefer" target="blank"><img src="https://img.shields.io/twitter/follow/recursivedefer?logo=twitter&style=for-the-badge" alt="recursivedefer" /></a> </p>
 
-- 🔭 I’m currently working on [Kamyoon](https://kamyoon.com)     <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey.png" alt="NASA Worm Logo" width="100" height="100"/>
+<p align="left" style="display: flex; align-items: center;">
+    🔭 I’m currently working on <a href="https://kamyoon.com" target="_blank">Kamyoon</a>
+    <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey.png" alt="Kamyoon Logo" width="40" height="40" style="object-fit: contain;"/>
     </a>
+</p>
+
 
 - 🌱 I’m currently learning **JavaScript | C++ | DeepLearning |**
 
