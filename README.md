@@ -24,11 +24,11 @@
 <p align="left">
     <!-- NASA Worm Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logo1.png" alt="NASA Worm Logo" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logo1.png" alt="NASA Worm Logo" style="max-height: 40px; width: auto;"/>
     </a>
     <!-- NASA White Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite.png" alt="NASA White Logo" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite.png" alt="NASA White Logo" style="max-height: 40px; width: auto;"/>
     </a>
     <br>
     <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
