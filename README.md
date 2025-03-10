@@ -30,7 +30,7 @@
     I was recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for my contributions as an independent security researcher in their Vulnerability Disclosure Program (VDP). My responsible disclosure helped NASA secure its systems and protect its valuable data.
     <br>
     <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
-        <img src="https://img.shields.io/badge/VIEW-CERTIFICATE-PDF-blue?style=for-the-badge">
+        <img src="https://img.shields.io/badge/View CERTIFICATE-PDF-blue?style=for-the-badge">
     </a>
 </p>
 
