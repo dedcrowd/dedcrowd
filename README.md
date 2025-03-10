@@ -24,7 +24,7 @@
 <p align="left">
     <!-- NASA Worm Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logo1.png" alt="NASA Worm Logo" style="max-height: 10px; width: 10;"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logo1.png" alt="NASA Worm Logo" height="300" width="300" /></a>
     </a>
     <!-- NASA White Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
