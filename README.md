@@ -10,7 +10,7 @@
 <p align="left" style="display: flex; align-items: center;">
     🔭 I’m currently working on <a href="https://kamyoon.com" target="_blank">Kamyoon</a>
     <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey.png" alt="Kamyoon Logo" width="40" height="40" style="object-fit: contain;"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey.png" alt="Kamyoon Logo" style="max-height: 40px; width: auto;"/>
     </a>
 </p>
 
