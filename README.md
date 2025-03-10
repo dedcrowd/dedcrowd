@@ -18,30 +18,22 @@
 <p align="left">
     <!-- NASA Meatball Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="NASA" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa.png" alt="NASA Meatball Logo" width="150" height="150"/>
     </a>
     <!-- NASA Worm Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_worm_logo.svg" alt="NASA Worm" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logo1.png" alt="NASA Worm Logo" width="150" height="150"/>
     </a>
-    <!-- NASA JPL Logo -->
-    <a href="https://www.jpl.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://www.jpl.nasa.gov/sites/default/files/styles/side_image/public/images/jpl-logo.png" alt="NASA JPL" width="100" height="100"/>
-    </a>
-    <!-- NASA Goddard Space Flight Center Logo -->
-    <a href="https://www.nasa.gov/goddard" target="_blank" rel="noreferrer">
-        <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/gsfc-logo.png" alt="NASA Goddard" width="100" height="100"/>
-    </a>
-    <!-- NASA Kennedy Space Center Logo -->
-    <a href="https://www.nasa.gov/centers/kennedy/home/index.html" target="_blank" rel="noreferrer">
-        <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/ksc-logo.png" alt="NASA Kennedy" width="100" height="100"/>
+    <!-- NASA White Logo -->
+    <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite.png" alt="NASA White Logo" width="150" height="150"/>
     </a>
     <br>
-    <strong>NASA Vulnerability Disclosure Program (VDP) Takdir Mektubu</strong>
+    <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
     <br>
-    <p>NASA'nın Güvenlik Açığı Bildirim Programı'na (VDP) bağımsız bir güvenlik araştırmacısı olarak katkılarım nedeniyle NASA tarafından takdir edildim. Sorumlu bildirimim, NASA'nın sistemlerini güvence altına almasına ve değerli verilerini korumasına yardımcı oldu.</p>
+    I was recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for my contributions as an independent security researcher in their Vulnerability Disclosure Program (VDP). My responsible disclosure helped NASA secure its systems and protect its valuable data.
     <br>
-    <a href="https://github.com/dedcrowd/dedcrowd/blob/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
+    <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
         <img src="https://img.shields.io/badge/Sertifikayı_Görüntüle-PDF-blue?style=for-the-badge">
     </a>
 </p>
