@@ -28,7 +28,7 @@
     </a>
     <!-- NASA White Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite.png" alt="NASA White Logo" style="max-height: 80px; width: auto;"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite.png" alt="NASA White Logo" height="250" width="300" /></a>
     </a>
     <br>
     <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
