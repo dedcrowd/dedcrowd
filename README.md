@@ -17,7 +17,7 @@
 
 <p align="left">
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="nasa" width="50" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="nasa" width="100" height="100"/>
     </a>
     <br>
     <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
