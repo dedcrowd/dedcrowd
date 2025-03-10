@@ -24,7 +24,7 @@
     <br>
     I was recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for my contributions as an independent security researcher in their Vulnerability Disclosure Program (VDP). My responsible disclosure helped NASA secure its systems and protect its valuable data.
     <br>
-    <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/VDP%20Letter%20of%20Appreciation%20-%20DedCrowd.pdf" target="_blank">
+    <a href="https://github.com/dedcrowd/dedcrowd/blob/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
         <img src="https://img.shields.io/badge/View_Certificate-PDF-blue?style=for-the-badge">
     </a>
 </p>
@@ -34,7 +34,7 @@
 <a href="https://twitter.com/recursivedefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="recursivedefer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dedcrowd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dedcrowd" height="30" width="40" /></a>
 <a href="https://kaggle.com/akifsayin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akifsayin" height="30" width="40" /></a>
-<a href="https://fb.com/akif.sayin.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akif.sayin.54" height="30" width="40" /></a>
+<a href="https://fb.com/dedcrowd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akif.sayin.54" height="30" width="40" /></a>
 <a href="https://instagram.com/dedcrowd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dedcrowd" height="30" width="40" /></a>
 <a href="https://medium.com/@akif12asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akif12asd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akif12asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dedcrowd" height="30" width="40" /></a>
