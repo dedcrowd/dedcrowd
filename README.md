@@ -10,7 +10,7 @@
 <p align="left" style="display: flex; align-items: center;">
     🔭 I’m currently working on <a href="https://kamyoon.com" target="_blank">Kamyoon</a>
     <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey.png" alt="Kamyoon Logo" style="max-height: 40px; width: auto;"/>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey3d.png" alt="Kamyoon Logo" style="max-height: 40px; width: auto;"/>
     </a>
 </p>
 
@@ -28,7 +28,7 @@
     </a>
     <!-- NASA White Logo -->
     <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite.png" alt="NASA White Logo" height="250" width="300" /></a>
+        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite3d.png" alt="NASA White Logo" height="250" width="300" /></a>
     </a>
     <br>
     <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
