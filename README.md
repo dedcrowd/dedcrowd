@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/recursivedefer" target="blank"><img src="https://img.shields.io/twitter/follow/recursivedefer?logo=twitter&style=for-the-badge" alt="recursivedefer" /></a> </p>
 
-<p align="left" style="display: flex; align-items: center;">
-    🔭 I’m currently working on <a href="https://kamyoon.com" target="_blank">Kamyoon</a>
-    <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey3d.png" alt="Kamyoon Logo" style="max-height: 40px; width: auto;"/>
-    </a>
-</p>
 
 
 - 🌱 I’m currently learning **JavaScript | C++ | DeepLearning |**
@@ -22,22 +16,39 @@
 - 📫 How to reach me **akif@hackermail.com**
 <!-- https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/white-theme-logo.a6439cb3.svg -->
 <p align="left">
-    <!-- NASA Worm Logo -->
-    <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logonasa.png" alt="NASA Worm Logo" height="250" width="300" /></a>
-    </a>
-    <!-- NASA White Logo -->
-    <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite3d.png" alt="NASA White Logo" height="220" width="300" /></a>
-    </a>
-    <br>
-    <strong>NASA Vulnerability Disclosure Program (VDP) Appreciation Certificate</strong>
-    <br>
-    I was recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for my contributions as an independent security researcher in their Vulnerability Disclosure Program (VDP). My responsible disclosure helped NASA secure its systems and protect its valuable data.
-    <br>
-    <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
-        <img src="https://img.shields.io/badge/View CERTIFICATE-PDF-blue?style=for-the-badge">
-    </a>
+
+<a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logonasa.png" alt="NASA Worm Logo" height="320" />
+</a>
+
+<br><br>
+
+<a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite3d.png" alt="NASA White Logo" height="260" />
+</a>
+
+<br><br>
+
+<strong>NASA Vulnerability Disclosure Program (VDP) – Letter of Appreciation</strong>
+<br>
+Recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for responsibly disclosing critical security vulnerabilities and helping protect mission-critical systems and data.
+<br><br>
+
+<a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-PDF-blue?style=for-the-badge" />
+</a>
+
+<br><br><br>
+
+<div style="display:flex;align-items:center;gap:12px;opacity:0.9;">
+  <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey3d.png" alt="Kamyoon Logo" height="80" />
+  </a>
+  <span><br>
+    Previously secured <a href="https://kamyoon.com" target="_blank">Kamyoon</a> by identifying and reporting critical security vulnerabilities through responsible disclosure.
+  </span>
+</div>
+
 </p>
 
 
