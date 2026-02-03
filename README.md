@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedcrowd&label=Profile%20views&color=0e75b6&style=flat" alt="dedcrowd" style="width: 160px; height: auto;"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedcrowd" alt="dedcrowd" /></a> </p>
+<!-- resim widget -->
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=DedCrowd&theme=darkhub&column=7&no-frame=true&no-bg=true" alt="DedCrowd GitHub Trophies" />
 
 <p align="left"> <a href="https://twitter.com/recursivedefer" target="blank"><img src="https://img.shields.io/twitter/follow/recursivedefer?logo=twitter&style=for-the-badge" alt="recursivedefer" /></a> </p>
 
@@ -15,39 +16,43 @@
 
 - 📫 How to reach me **akif@hackermail.com**
 <!-- https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/white-theme-logo.a6439cb3.svg -->
-<p align="left">
+<div style="display:flex;flex-direction:column;gap:24px;max-width:900px;">
 
-<a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logonasa.png" alt="NASA Worm Logo" height="320" />
-</a>
+  <!-- NASA PANEL -->
+  <div style="border:1px solid #2b2b2b;padding:20px;border-radius:12px;background:#0e0e0e;">
+    <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logonasa.png" height="120">
+    </a>
+    <p style="margin-top:12px;">
+      <strong>NASA Vulnerability Disclosure Program</strong><br>
+      Letter of Appreciation for responsible disclosure of critical vulnerabilities.
+    </p>
+    <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Certificate-PDF-blue?style=for-the-badge">
+    </a>
+  </div>
 
-<br><br>
+  <!-- NASA ALT PANEL -->
+  <div style="border:1px solid #2b2b2b;padding:20px;border-radius:12px;background:#0e0e0e;">
+    <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite3d.png" height="90">
+    </a>
+    <p><strong>NASA</strong> – Mission‑critical systems security contribution.</p>
+  </div>
 
-<a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/logoWhite3d.png" alt="NASA White Logo" height="260" />
-</a>
+  <!-- KAMYOON PANEL -->
+  <div style="border:1px solid #2b2b2b;padding:20px;border-radius:12px;background:#0e0e0e;">
+    <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey3d.png" height="80">
+    </a>
+    <p>
+      <strong>Kamyoon</strong><br>
+      Reported and helped remediate critical security vulnerabilities via responsible disclosure.
+    </p>
+  </div>
 
-<br><br>
-
-<strong>NASA Vulnerability Disclosure Program (VDP) – Letter of Appreciation</strong>
-<br>
-Recognized by <a href="https://www.nasa.gov/" target="_blank">NASA</a> for responsibly disclosing critical security vulnerabilities and helping protect mission-critical systems and data.
-<br><br>
-
-<a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Certificate-PDF-blue?style=for-the-badge" />
-</a>
-
-<br><br><br>
-
-<div style="display:flex;align-items:center;gap:12px;opacity:0.9;">
-  <a href="https://www.kamyoon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/dedcrowd/dedcrowd/refs/heads/main/grey3d.png" alt="Kamyoon Logo" height="80" />
-  </a>
-  <span><br>
-    Previously secured <a href="https://kamyoon.com" target="_blank">Kamyoon</a> by identifying and reporting critical security vulnerabilities through responsible disclosure.
-  </span>
 </div>
+
 
 </p>
 
