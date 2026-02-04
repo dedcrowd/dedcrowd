@@ -6,7 +6,7 @@
 <!-- resim widget -->
 <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=DedCrowd&theme=darkhub&column=7&no-frame=true&no-bg=true" alt="DedCrowd GitHub Trophies" />
 
-<p align="left"> <a href="https://twitter.com/recursivedefer" target="blank"><img src="https://img.shields.io/twitter/follow/recursivedefer?logo=twitter&style=for-the-badge" alt="recursivedefer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dedcrowd" target="blank"><img src="https://img.shields.io/twitter/follow/dedcrowd?logo=twitter&style=for-the-badge" alt="dedcrowd" /></a> </p>
 
 
 
