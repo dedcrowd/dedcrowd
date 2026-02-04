@@ -74,8 +74,20 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dedcrowd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/dedcrowd" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedcrowd&show_icons=true&locale=en&layout=compact" alt="dedcrowd" /></p>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;align-items:flex-start;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedcrowd&show_icons=true&locale=en" alt="dedcrowd" /></p>
+  <!-- Genel Stats -->
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dedcrowd?theme=dark&show_icons=true" alt="GitHub Stats" style="height:200px;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedcrowd&" alt="dedcrowd" /></p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dedcrowd&layout=compact&theme=dark" alt="Top Languages" style="height:200px;">
+
+  <!-- Contributions Graph -->
+  <img src="https://github.pumbas.net/api/contributions/dedcrowd" alt="GitHub Contributions Graph" style="height:200px;">
+
+</div>
+
+
+
+
+
