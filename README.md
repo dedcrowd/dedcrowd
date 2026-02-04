@@ -27,9 +27,13 @@
       <strong>NASA Vulnerability Disclosure Program</strong><br>
       Letter of Appreciation for responsible disclosure of critical vulnerabilities.
     </p>
-    <a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certificate-PDF-blue?style=for-the-badge">
-    </a>
+<a href="https://raw.githubusercontent.com/dedcrowd/dedcrowd/main/Nasa_Letter_of_Appreciation-DedCrowd.png" target="_blank">
+  🏅 Award Received from NASA – View Official Certificate 🏅
+</a>
+
+
+
+
   </div>
 
   <!-- NASA ALT PANEL -->
